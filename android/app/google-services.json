@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658828638484",
+    "project_id": "forex-strategy-5d7ee",
+    "storage_bucket": "forex-strategy-5d7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658828638484:android:2ca15c6c90aa5a7fba6a01",
+        "android_client_info": {
+          "package_name": "com.example.forexapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC416LHkMKOm3bVkwwjebCfG5m7M0kjCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658828638484:android:50be7f20ddadd7efba6a01",
+        "android_client_info": {
+          "package_name": "com.miudev.forex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC416LHkMKOm3bVkwwjebCfG5m7M0kjCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
